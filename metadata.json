@@ -1,0 +1,6 @@
+{
+  "name": "The Observer — Thought & Awareness Experience",
+  "description": "A dark, cinematic interactive journey on metacognition, predictive processing, and consciousness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
